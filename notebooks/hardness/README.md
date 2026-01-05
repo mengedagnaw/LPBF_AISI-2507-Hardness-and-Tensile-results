@@ -1,1 +1,1 @@
-Jupyter notebooks (interactive analysis).
+Jupyter scripts (interactive analysis).
