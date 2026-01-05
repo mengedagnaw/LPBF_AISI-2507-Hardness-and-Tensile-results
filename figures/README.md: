@@ -1,0 +1,11 @@
+# Figures
+
+This folder contains **final** output figures generated from the analysis scripts/notebooks.
+
+## Structure
+- `figures/hardness/` : hardness plots
+- `figures/tensile/`  : tensile plots
+
+## Notes
+- Store publication-ready figures here (PNG/PDF/SVG).
+- Temporary/debug images should go to `outputs/` and can be excluded from git.
